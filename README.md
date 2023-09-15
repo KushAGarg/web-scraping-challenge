@@ -2,4 +2,4 @@
 
 Web-scraping techniques were used to analyze weather data from the Mars News website.
 
-VBA_Challenge.bas features the VBA script used to perform the stock analysis.
+Two Python script files and a CSV output file are included. Examples from other GitHub repositories were used to help develop the scripts.
